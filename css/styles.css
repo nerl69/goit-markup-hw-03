@@ -363,3 +363,8 @@ img {
   letter-spacing: 0.02em;
   color: #434455;
 }
+
+.portfolio {
+  padding-top: 96px;
+  padding-bottom: 120px;
+}
