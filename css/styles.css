@@ -205,6 +205,13 @@ li {
   padding-bottom: 120px;
 }
 
+.sectionone-list {
+  gap: 24px;
+}
+.sectionone-list-list {
+  width: calc((100% - 72px) / 4);
+}
+
 .paragraf {
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -217,6 +224,7 @@ li {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  margin-bottom: 8px;
 }
 
 .title {
