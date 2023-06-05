@@ -68,7 +68,7 @@ body {
   padding-top: 24px;
   padding-bottom: 24px;
 }
-.header-menu-list {
+.header-address-item {
   display: flex;
   gap: 40px;
 }
