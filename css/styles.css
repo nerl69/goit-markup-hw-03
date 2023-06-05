@@ -200,6 +200,11 @@ li {
   font-style: normal;
 }
 
+.sectionone {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
 .paragraf {
   line-height: 1.5;
   letter-spacing: 0.02em;
