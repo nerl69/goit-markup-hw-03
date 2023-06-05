@@ -68,10 +68,6 @@ body {
   padding-top: 24px;
   padding-bottom: 24px;
 }
-.header-address-item {
-  display: flex;
-  gap: 40px;
-}
 
 .header-address-link {
   font-style: normal;
@@ -187,6 +183,8 @@ li {
   letter-spacing: 0.02em;
   color: #2e2f42;
   background-color: #ffffff;
+  display: flex;
+  gap: 40px;
 }
 
 .header-address {
