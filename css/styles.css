@@ -239,6 +239,10 @@ li {
   margin-bottom: 8px;
 }
 
+.sectiontwo {
+  padding-bottom: 120px;
+}
+
 .title {
   font-size: 36px;
   line-height: 1.11;
@@ -246,6 +250,16 @@ li {
   text-transform: capitalize;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 72px;
+}
+
+.sectiontwo-list {
+  display: flex;
+  gap: 24px;
+}
+
+.sectiontwo-list-list {
+  width: calc((100% - 48px) / 3);
 }
 
 .sectionthree {
