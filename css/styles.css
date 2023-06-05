@@ -68,6 +68,10 @@ body {
   padding-top: 24px;
   padding-bottom: 24px;
 }
+.header-menu-list {
+  display: flex;
+  gap: 40px;
+}
 
 .header-address-link {
   font-style: normal;
