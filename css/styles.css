@@ -125,6 +125,12 @@ body {
   background-color: #4d5ae5;
   color: #ffffff;
   cursor: pointer;
+  display: block;
+  min-width: 169px;
+  height: 56px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
 }
 
 .hero-btn-portfolio {
@@ -154,10 +160,13 @@ body {
   letter-spacing: 0.02em;
   text-align: center;
   color: #ffffff;
+  max-width: 496px;
 }
 
 .hero-section {
   background: #2e2f42;
+  padding-top: 188px;
+  padding-bottom: 188px;
 }
 .button-active {
   cursor: pointer;
@@ -214,11 +223,11 @@ li {
   color: #2e2f42;
 }
 
-.sectionsectionsection {
+.sectionthree {
   background-color: #f4f4fd;
 }
 
-.titletitle {
+.titletwo {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -227,7 +236,7 @@ li {
   color: #2e2f42;
 }
 
-.titletitletitle {
+.titlethree {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
